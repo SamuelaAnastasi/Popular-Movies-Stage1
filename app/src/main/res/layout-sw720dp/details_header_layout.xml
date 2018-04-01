@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primaryTextColor"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/header_padding_vertical">
+
+    <TextView
+        android:id="@+id/movie_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/header_padding_vertical"
+        android:background="@color/colorHeader"
+        android:gravity="center"
+        android:paddingBottom="@dimen/details_title_padding_vertical"
+        android:paddingEnd="@dimen/header_title_padding_horizontal"
+        android:paddingLeft="@dimen/header_title_padding_horizontal"
+        android:paddingRight="@dimen/header_title_padding_horizontal"
+        android:paddingStart="@dimen/header_title_padding_horizontal"
+        android:paddingTop="@dimen/details_title_padding_vertical"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/movie_title_text_size"
+        app:fontFamily="@font/shadows_into_light_res"
+        tools:text="@string/temp_movie_title" />
+
+    <RatingBar
+        android:id="@+id/rb_rating_bar"
+        style="?android:attr/ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isIndicator="true"
+        android:numStars="10"
+        tools:rating="7.4" />
+</LinearLayout>

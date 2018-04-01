@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding_horizontal">200dp</dimen>
+    <dimen name="content_padding_horizontal">60dp</dimen>
+
+    <dimen name="scroll_view_overlap_top">160dp</dimen>
+    <dimen name="details_card_corner_radius">4dp</dimen>
+
+    <dimen name="no_internet_padding_vertical">160dp</dimen>
+    <dimen name="no_internet_padding_horizontal">320dp</dimen>
+    <dimen name="no_internet_image_width">240dp</dimen>
+    <dimen name="no_internet_img_dimens_land">280dp</dimen>
+    <dimen name="no_internet_text_margin_top">32dp</dimen>
+
+</resources>

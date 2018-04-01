@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_layout_height">280dp</dimen>
+
+    <!-- Generic layout dimens -->
+    <dimen name="layout_padding_horizontal">16dp</dimen>
+    <dimen name="layout_padding_vertical">16dp</dimen>
+    <dimen name="content_padding_horizontal">16dp</dimen>
+    <dimen name="header_title_padding_horizontal">40dp</dimen>
+
+    <!-- List item dimens -->
+    <dimen name="list_item_info_height">68dp</dimen>
+    <dimen name="list_item_info_min_height">68dp</dimen>
+    <dimen name="card_corner_radius">0dp</dimen>
+    <dimen name="item_info_top_padding">8dp</dimen>
+    <dimen name="list_item_info_padding_horizontal">16dp</dimen>
+    <dimen name="item_title_text_size">16sp</dimen>
+    <dimen name="item_genres_text_size">12sp</dimen>
+
+    <!-- Bottom nav dimens -->
+    <dimen name="bottom_nav_height">56dp</dimen>
+    <dimen name="bottom_nav_min_width">240dp</dimen>
+
+    <!-- Details activity dimens -->
+    <dimen name="header_padding_vertical">6dp</dimen>
+    <dimen name="details_title_padding_vertical">32dp</dimen>
+    <dimen name="overview_padding_vertical">40dp</dimen>
+    <dimen name="trailers_container_padding_top">16dp</dimen>
+    <dimen name="review_padding_vertical">16dp</dimen>
+    <dimen name="overview_content_padding_bottom">32dp</dimen>
+    <dimen name="overview_label_padding_bottom">8dp</dimen>
+    <dimen name="label_padding_right">16dp</dimen>
+
+    <dimen name="movie_title_text_size">32sp</dimen>
+    <dimen name="headers_text_size">22sp</dimen>
+    <dimen name="content_text_size">16sp</dimen>
+    <dimen name="review_title_size">16sp</dimen>
+    <dimen name="review_text_size">14sp</dimen>
+
+    <!-- Review dimens -->
+    <dimen name="review_container_margin_top">1dp</dimen>
+    <dimen name="author_name_margin_horizontal">8dp</dimen>
+    <dimen name="review_padding_bottom">16dp</dimen>
+    <dimen name="reviews_container_padding_top">32dp</dimen>
+    <dimen name="reviews_label_padding_bottom">4dp</dimen>
+
+    <!-- CollapsingToolBar dimens -->
+    <dimen name="expanded_title_margin">24dp</dimen>
+    <dimen name="expanded_title_margin_start">24dp</dimen>
+
+    <!-- Trailer dimens new -->
+    <dimen name="trailer_card_corner">2dp</dimen>
+    <dimen name="trailer_image_padding">0dp</dimen>
+    <dimen name="trailer_card_margin_horizontal">8dp</dimen>
+    <dimen name="trailer_card_padding">0dp</dimen>
+    <dimen name="trailer_card_margin_vertical">8dp</dimen>
+
+
+    <!-- No internet dimens  -->
+    <dimen name="no_internet_padding_vertical">16dp</dimen>
+    <dimen name="no_internet_padding_horizontal">24dp</dimen>
+    <dimen name="no_internet_image_width">240dp</dimen>
+    <dimen name="no_internet_padding">16dp</dimen>
+    <dimen name="no_internet_img_dimens_land">200dp</dimen>
+    <dimen name="no_internet_text_margin_top">8dp</dimen>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding_horizontal">24dp</dimen>
+    <dimen name="no_internet_padding_vertical">16dp</dimen>
+    <dimen name="no_internet_padding_horizontal">32dp</dimen>
+    <dimen name="content_padding_horizontal">24dp</dimen>
+</resources>

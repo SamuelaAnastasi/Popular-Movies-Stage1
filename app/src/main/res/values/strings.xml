@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Popular Movies Stage1</string>
+
+    <string name="key_intent_current_movie">currentMovie</string>
+
+    <!-- Details activity strings *************************************************** -->
+    <string name="details_toolbar_title">Movie Info</string>
+    <string name="details_image_size">w780</string>
+    <string name="key_details_snackbar_dismissed">snackbarDismissed</string>
+    <string name="snackbar_message">It seems you are not connected. If you don\'t see the image reconnect and then rotate the device.</string>
+    <string name="snackbar_button_label">GOT IT!</string>
+
+    <!-- Labels strings -->
+    <string name="label_overview">Overview:</string>
+    <string name="label_release_date">Release date:</string>
+    <string name="label_genres">Genres:</string>
+
+    <string name="category_popular">Popular</string>
+    <string name="category_favorites">Favorites</string>
+    <string name="category_top_rated">Top Rated</string>
+
+    <!-- Content Description Strings -->
+    <string name="content_desc_movie_poster">Movie Poster</string>
+    <string name="content_desc_backdrop_image">Movie Backdrop Image</string>
+    <string name="content_desc_no_internet_icon">No internet icon</string>
+
+    <!-- Miscellaneous Strings -->
+    <string name="search_option_popular">popular</string>
+    <string name="search_option_top_rated">top_rated</string>
+    <string name="key_nav_option_selected">navOptionSelected</string>
+    <string name="key_search_option_string">searchOptionString</string>
+    <string name="key_action_bar_title">actionBarTitle</string>
+    <string name="key_recycler_scroll_state">recyclerScrollState</string>
+
+    <string name="no_internet_title_text">Oops! No internet connection!</string>
+    <string name="no_internet_subheader_text">Check your internet settings and try again.</string>
+    <string name="try_again_label">Try Again</string>
+
+    <!-- Temporary content strings -->
+    <string name="temp_movie_title">The Maze Runner</string>
+    <string name="temp_detail_overview_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sodales dictum placerat. Ut volutpat purus sem, ac placerat neque aliquet eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl lacus, faucibus et laoreet sed, viverra ut tellus. Sed tortor elit, posuere vitae sapien eget, mattis commodo lectus.</string>
+    <string name="temp_date">24/04/1978</string>
+    <string name="temp_genres_content">Romance, Dramma, Science</string>
+
+    </resources>

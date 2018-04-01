@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#484848</color>
+    <color name="colorAccent">#6f79a8</color>
+
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#424242</color>
+    <color name="colorSecondaryDark">#1b1b1b</color>
+    <color name="colorSecondaryLight">#6d6d6d</color>
+
+    <!-- Text colors -->
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+    <color name="colorHeader">#b6b8c3</color>
+
+    <color name="list_item_info_background">#88000a12</color>
+
+    <color name="detail_content_scrim">#484848</color>
+
+    <color name="detail_view_background_color">#e8eaf6</color>
+
+    <color name="colorAccentLight">#9fa8da</color>
+    <color name="colorAccentFavorite">#880e4f</color>
+    <color name="colorNavChecked">#6f79a8</color>
+
+</resources>
